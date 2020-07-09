@@ -1,13 +1,13 @@
 
 # App COVID-19
 
-Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh) e lista todos os dados sobre o avanço da doença no mundo.
+Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh) e lista todos os dados sobre o avanço da doença no Brasil.
 
  
 
 ## :nazar_amulet: Objetivo
 
-| O objetivo desta app é permitir que as pessoas matenham-se informadas sobre a Covid-19 de maneira mais fácil e prática. Podendo filtrar as informações por países e estados de sua preferência.
+| O objetivo desta app é permitir que as pessoas matenham-se informadas sobre a Covid-19 de maneira mais fácil e prática. Podendo filtrar as informações no país e estados de sua preferência.
 
 ## :black_nib: Justificativa
 
